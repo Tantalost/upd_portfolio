@@ -5,4 +5,5 @@ My personal portfolio website, built with [Next.js](https://nextjs.org/), [Tailw
 
 </div>
 
+Credits to chronomark for the reference.
 <br/>
